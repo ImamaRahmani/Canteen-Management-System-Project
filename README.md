@@ -1,4 +1,4 @@
-We will make a website naming ‘Explore Pakistan’. It will be a tourism website 
+I made a website naming ‘Explore Pakistan’. It will be a tourism website 
 having a main page as well as separate landing pages for each province of Pakistan.
 Main page will include top destinations, discounts, block diagrams, pictures and client 
 reviews. Initially we will be adding major tourist attractions and historic places. 
