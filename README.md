@@ -1,8 +1,8 @@
 
 **Description
 and 
-Working:
-**
+Working:**
+
 
 I made a website naming ‘Explore Pakistan’. It will be a tourism website 
 having a main page as well as separate landing pages for each province of Pakistan.
@@ -22,3 +22,29 @@ entering the province the want to explore! This will appeal our modern-day costu
 as they do not want to hassle when searching for a perfect destination in the outskirts, 
 another city or province. Such initiatives will promote the tourism industry of 
 Pakistan. In future, we can also convert our website into an application
+
+
+
+
+![image](https://user-images.githubusercontent.com/92652883/193631304-1825954d-9a75-4b3d-8f90-50a921cd478c.png)
+
+
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/92652883/193631360-60785607-76d3-4abe-b67d-0d5451c11c03.png)
+
+
+
+
+
+
+
+https://user-images.githubusercontent.com/92652883/193631599-f1aa8bd6-fbab-4a65-bd0e-9b8725a0f6c6.mp4
+
+
+
+
