@@ -1,8 +1,8 @@
 
-Description
+**Description
 and 
 Working:
-
+**
 
 I made a website naming ‘Explore Pakistan’. It will be a tourism website 
 having a main page as well as separate landing pages for each province of Pakistan.
@@ -13,7 +13,7 @@ mentioned per province. We will be using HTML, CSS and java script to develop ou
 website
 
 
-Motivation:
+**Motivation:**
 
 Stepping in the 21st century, where everything is a touch away, our group decided to 
 take it as an opportunity and create something different which will ease the tourists 
